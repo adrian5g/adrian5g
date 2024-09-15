@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Passionate about programming, currently working as an in-game developer at StailyMC. Pursuing a degree in Internet Systems Technology at IFRN, I am constantly exploring new web technologies and trends such as frontend development, APIs, and scalable backend solutions. Eager to gain new experiences in programming, I aim to stay ahead in the ever-evolving field of Internet systems.</h3>
+<h3 align="left" styles="font-weight: normal;">Passionate about programming, currently working as an in-game developer at StailyMC. Pursuing a degree in Internet Systems Technology at IFRN, I am constantly exploring new web technologies and trends such as frontend development, APIs, and scalable backend solutions. Eager to gain new experiences in programming, I aim to stay ahead in the ever-evolving field of Internet systems.</h3>
 
 ###
 
