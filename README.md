@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Technologies</h2>
 
 ###
