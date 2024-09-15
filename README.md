@@ -1,12 +1,16 @@
-<h2 align="left">Igor Ádrian</h2>
+<h1 align="left">Igor Ádrian</h1>
 
 ###
 
-<p align="left">Passionate about programming, currently working as an in-game developer at StailyMC. Pursuing a degree in Internet Systems Technology at IFRN, always eager to learn and explore new technologies.</p>
+<img align="left" height="164" src=""  />
 
 ###
 
-<h4 align="left">Technologies</h4>
+<p align="left">Passionate about programming, currently working as an in-game developer at StailyMC. Pursuing a degree in Internet Systems Technology at IFRN, I am constantly exploring new web technologies and trends such as frontend development, APIs, and scalable backend solutions. Eager to gain new experiences in programming, I aim to stay ahead in the ever-evolving field of Internet systems.</p>
+
+###
+
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -58,7 +62,7 @@
 
 ###
 
-<h4 align="left">Stats</h4>
+<h2 align="left">Stats</h2>
 
 ###
 
